@@ -44,14 +44,5 @@ Me enfoco en transformar datos en insights accionables usando **SQL**, **Power B
 - 🟡 **Excel: Power Pivot, DAX y Power Query** — Udemy (2026)
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LuisMiguelRuedaGalindo&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMiguelRuedaGalindo&layout=compact&theme=dark&hide_border=true)
-
----
-
-<p align="center">
   <i>Abierto a oportunidades en Data Analytics · Business Intelligence · Data Engineering</i>
 </p>
