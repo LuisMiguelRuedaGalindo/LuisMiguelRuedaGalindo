@@ -1,4 +1,4 @@
-# 👋 Hola, soy Luis Miguel Rueda Galindo
+# Hola, soy Luis Miguel Rueda Galindo
 
 🎓 Ingeniero Electrónico · Universidad Santo Tomás (2026)  
 📍 Bogotá, Colombia  
@@ -7,7 +7,7 @@
 
 ---
 
-## 🧠 Sobre mí
+## Sobre mí
 
 Analista de datos con experiencia práctica en el sector farmacéutico **(Genfar)**, especializado en procesos ETL, modelado de datos y construcción de dashboards KPI para la toma de decisiones comerciales en Latinoamérica.
 
@@ -15,7 +15,7 @@ Me enfoco en transformar datos en insights accionables usando **SQL**, **Power B
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -37,11 +37,11 @@ Me enfoco en transformar datos en insights accionables usando **SQL**, **Power B
 
 ---
 
-## 🏅 Certificaciones
+## Certificaciones
 
-- 🟡 **PL-300 Prep: Microsoft Power BI Data Analyst** — Udemy (2026)
-- 🟡 **Máster en SQL Server: Desde Cero hasta Experto** — Udemy (2026)
-- 🟡 **Excel: Power Pivot, DAX y Power Query** — Udemy (2026)
+- **PL-300 Prep: Microsoft Power BI Data Analyst** — Udemy (2026)
+-  **Máster en SQL Server: Desde Cero hasta Experto** — Udemy (2026)
+-  **Excel: Power Pivot, DAX y Power Query** — Udemy (2026)
 
 ---
   <i>Abierto a oportunidades en Data Analytics · Business Intelligence · Data Engineering</i>
