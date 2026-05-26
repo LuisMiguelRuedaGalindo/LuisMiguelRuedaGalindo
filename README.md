@@ -1,7 +1,7 @@
 # Hola, soy Luis Miguel Rueda Galindo
 
-🎓 Ingeniero Electrónico · Universidad Santo Tomás (2026)  
-📍 Bogotá, Colombia  
+Ingeniero Electrónico · Universidad Santo Tomás (2026)  
+Bogotá, Colombia  
 📧 [luismiguelrueda26@outlook.com](mailto:luismiguelrueda26@outlook.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/luis-miguel-rueda-galindo-a02b9033b)
 
