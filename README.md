@@ -35,9 +35,9 @@ Me enfoco en transformar datos en insights accionables usando **SQL**, **Power B
 
 | Proyecto | Herramientas | Descripción |
 |----------|-------------|-------------|
-| [ Retail Sales & Correlation Analysis](https://github.com/tu-usuario/retail-sales-correlation-powerbi) | Power BI · DAX · Estadística | Dashboard de ventas retail con Covarianza y Coeficiente de Pearson implementados manualmente en DAX. |
-| [ North America Retail – Supply Chain & Sales](https://github.com/tu-usuario/retail-supply-chain-analysis-powerbi) | Power BI · DAX · Inteligencia de Tiempo | Reporte ejecutivo de ventas y cadena de suministro con análisis YoY, mapa coroplético y segmentación por región. |
-| [ Dashboard de KPIs Comerciales](https://github.com/tu-usuario/commercial-insights-dax-excel) | Excel · Power Pivot · DAX | Sistema de control de KPIs con semáforo de cumplimiento, variación interanual y acumulado mensual por vendedor y producto. |
+| [ Retail Sales & Correlation Analysis](https://github.com/LuisMiguelRuedaGalindo/retail-sales-correlation-powerbi) | Power BI · DAX · Estadística | Dashboard de ventas retail con Covarianza y Coeficiente de Pearson implementados manualmente en DAX. |
+| [ North America Retail – Supply Chain & Sales](https://github.com/LuisMiguelRuedaGalindo/retail-supply-chain-analysis-powerbi) | Power BI · DAX · Inteligencia de Tiempo | Reporte ejecutivo de ventas y cadena de suministro con análisis YoY, mapa coroplético y segmentación por región. |
+| [ Dashboard de KPIs Comerciales](https://github.com/LuisMiguelRuedaGalindo/commercial-insights-dax-excel) | Excel · Power Pivot · DAX | Sistema de control de KPIs con semáforo de cumplimiento, variación interanual y acumulado mensual por vendedor y producto. |
 
 ---
 
